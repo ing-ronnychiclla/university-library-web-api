@@ -1,0 +1,244 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/ronny-chiclla/Documents/Cibertec/Cycles/Fisth_Cycle/Module_1/DSW1/Project/Library/Back-end/DSW1_T2_ChicllaZamoraRonny/src/DSW1_T2_ChicllaZamoraRonny.API/DSW1_T2_ChicllaZamoraRonny.API.csproj": {}
+  },
+  "projects": {
+    "/home/ronny-chiclla/Documents/Cibertec/Cycles/Fisth_Cycle/Module_1/DSW1/Project/Library/Back-end/DSW1_T2_ChicllaZamoraRonny/src/DSW1_T2_ChicllaZamoraRonny.API/DSW1_T2_ChicllaZamoraRonny.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/ronny-chiclla/Documents/Cibertec/Cycles/Fisth_Cycle/Module_1/DSW1/Project/Library/Back-end/DSW1_T2_ChicllaZamoraRonny/src/DSW1_T2_ChicllaZamoraRonny.API/DSW1_T2_ChicllaZamoraRonny.API.csproj",
+        "projectName": "DSW1_T2_ChicllaZamoraRonny.API",
+        "projectPath": "/home/ronny-chiclla/Documents/Cibertec/Cycles/Fisth_Cycle/Module_1/DSW1/Project/Library/Back-end/DSW1_T2_ChicllaZamoraRonny/src/DSW1_T2_ChicllaZamoraRonny.API/DSW1_T2_ChicllaZamoraRonny.API.csproj",
+        "packagesPath": "/home/ronny-chiclla/.nuget/packages/",
+        "outputPath": "/home/ronny-chiclla/Documents/Cibertec/Cycles/Fisth_Cycle/Module_1/DSW1/Project/Library/Back-end/DSW1_T2_ChicllaZamoraRonny/src/DSW1_T2_ChicllaZamoraRonny.API/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/ronny-chiclla/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/ronny-chiclla/Documents/Cibertec/Cycles/Fisth_Cycle/Module_1/DSW1/Project/Library/Back-end/DSW1_T2_ChicllaZamoraRonny/src/DSW1_T2_ChicllaZamoraRonny.Application/DSW1_T2_ChicllaZamoraRonny.Application.csproj": {
+                "projectPath": "/home/ronny-chiclla/Documents/Cibertec/Cycles/Fisth_Cycle/Module_1/DSW1/Project/Library/Back-end/DSW1_T2_ChicllaZamoraRonny/src/DSW1_T2_ChicllaZamoraRonny.Application/DSW1_T2_ChicllaZamoraRonny.Application.csproj"
+              },
+              "/home/ronny-chiclla/Documents/Cibertec/Cycles/Fisth_Cycle/Module_1/DSW1/Project/Library/Back-end/DSW1_T2_ChicllaZamoraRonny/src/DSW1_T2_ChicllaZamoraRonny.Infrastructure/DSW1_T2_ChicllaZamoraRonny.Infrastructure.csproj": {
+                "projectPath": "/home/ronny-chiclla/Documents/Cibertec/Cycles/Fisth_Cycle/Module_1/DSW1/Project/Library/Back-end/DSW1_T2_ChicllaZamoraRonny/src/DSW1_T2_ChicllaZamoraRonny.Infrastructure/DSW1_T2_ChicllaZamoraRonny.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.6.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.122/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/ronny-chiclla/Documents/Cibertec/Cycles/Fisth_Cycle/Module_1/DSW1/Project/Library/Back-end/DSW1_T2_ChicllaZamoraRonny/src/DSW1_T2_ChicllaZamoraRonny.Application/DSW1_T2_ChicllaZamoraRonny.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/ronny-chiclla/Documents/Cibertec/Cycles/Fisth_Cycle/Module_1/DSW1/Project/Library/Back-end/DSW1_T2_ChicllaZamoraRonny/src/DSW1_T2_ChicllaZamoraRonny.Application/DSW1_T2_ChicllaZamoraRonny.Application.csproj",
+        "projectName": "DSW1_T2_ChicllaZamoraRonny.Application",
+        "projectPath": "/home/ronny-chiclla/Documents/Cibertec/Cycles/Fisth_Cycle/Module_1/DSW1/Project/Library/Back-end/DSW1_T2_ChicllaZamoraRonny/src/DSW1_T2_ChicllaZamoraRonny.Application/DSW1_T2_ChicllaZamoraRonny.Application.csproj",
+        "packagesPath": "/home/ronny-chiclla/.nuget/packages/",
+        "outputPath": "/home/ronny-chiclla/Documents/Cibertec/Cycles/Fisth_Cycle/Module_1/DSW1/Project/Library/Back-end/DSW1_T2_ChicllaZamoraRonny/src/DSW1_T2_ChicllaZamoraRonny.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/ronny-chiclla/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/ronny-chiclla/Documents/Cibertec/Cycles/Fisth_Cycle/Module_1/DSW1/Project/Library/Back-end/DSW1_T2_ChicllaZamoraRonny/src/DSW1_T2_ChicllaZamoraRonny.Domain/DSW1_T2_ChicllaZamoraRonny.Domain.csproj": {
+                "projectPath": "/home/ronny-chiclla/Documents/Cibertec/Cycles/Fisth_Cycle/Module_1/DSW1/Project/Library/Back-end/DSW1_T2_ChicllaZamoraRonny/src/DSW1_T2_ChicllaZamoraRonny.Domain/DSW1_T2_ChicllaZamoraRonny.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.122/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/ronny-chiclla/Documents/Cibertec/Cycles/Fisth_Cycle/Module_1/DSW1/Project/Library/Back-end/DSW1_T2_ChicllaZamoraRonny/src/DSW1_T2_ChicllaZamoraRonny.Domain/DSW1_T2_ChicllaZamoraRonny.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/ronny-chiclla/Documents/Cibertec/Cycles/Fisth_Cycle/Module_1/DSW1/Project/Library/Back-end/DSW1_T2_ChicllaZamoraRonny/src/DSW1_T2_ChicllaZamoraRonny.Domain/DSW1_T2_ChicllaZamoraRonny.Domain.csproj",
+        "projectName": "DSW1_T2_ChicllaZamoraRonny.Domain",
+        "projectPath": "/home/ronny-chiclla/Documents/Cibertec/Cycles/Fisth_Cycle/Module_1/DSW1/Project/Library/Back-end/DSW1_T2_ChicllaZamoraRonny/src/DSW1_T2_ChicllaZamoraRonny.Domain/DSW1_T2_ChicllaZamoraRonny.Domain.csproj",
+        "packagesPath": "/home/ronny-chiclla/.nuget/packages/",
+        "outputPath": "/home/ronny-chiclla/Documents/Cibertec/Cycles/Fisth_Cycle/Module_1/DSW1/Project/Library/Back-end/DSW1_T2_ChicllaZamoraRonny/src/DSW1_T2_ChicllaZamoraRonny.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/ronny-chiclla/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.122/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/ronny-chiclla/Documents/Cibertec/Cycles/Fisth_Cycle/Module_1/DSW1/Project/Library/Back-end/DSW1_T2_ChicllaZamoraRonny/src/DSW1_T2_ChicllaZamoraRonny.Infrastructure/DSW1_T2_ChicllaZamoraRonny.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/ronny-chiclla/Documents/Cibertec/Cycles/Fisth_Cycle/Module_1/DSW1/Project/Library/Back-end/DSW1_T2_ChicllaZamoraRonny/src/DSW1_T2_ChicllaZamoraRonny.Infrastructure/DSW1_T2_ChicllaZamoraRonny.Infrastructure.csproj",
+        "projectName": "DSW1_T2_ChicllaZamoraRonny.Infrastructure",
+        "projectPath": "/home/ronny-chiclla/Documents/Cibertec/Cycles/Fisth_Cycle/Module_1/DSW1/Project/Library/Back-end/DSW1_T2_ChicllaZamoraRonny/src/DSW1_T2_ChicllaZamoraRonny.Infrastructure/DSW1_T2_ChicllaZamoraRonny.Infrastructure.csproj",
+        "packagesPath": "/home/ronny-chiclla/.nuget/packages/",
+        "outputPath": "/home/ronny-chiclla/Documents/Cibertec/Cycles/Fisth_Cycle/Module_1/DSW1/Project/Library/Back-end/DSW1_T2_ChicllaZamoraRonny/src/DSW1_T2_ChicllaZamoraRonny.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/ronny-chiclla/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/ronny-chiclla/Documents/Cibertec/Cycles/Fisth_Cycle/Module_1/DSW1/Project/Library/Back-end/DSW1_T2_ChicllaZamoraRonny/src/DSW1_T2_ChicllaZamoraRonny.Domain/DSW1_T2_ChicllaZamoraRonny.Domain.csproj": {
+                "projectPath": "/home/ronny-chiclla/Documents/Cibertec/Cycles/Fisth_Cycle/Module_1/DSW1/Project/Library/Back-end/DSW1_T2_ChicllaZamoraRonny/src/DSW1_T2_ChicllaZamoraRonny.Domain/DSW1_T2_ChicllaZamoraRonny.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.122/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

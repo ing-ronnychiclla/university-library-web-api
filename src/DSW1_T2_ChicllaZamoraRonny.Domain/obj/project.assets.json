@@ -1,0 +1,66 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net8.0": []
+  },
+  "packageFolders": {
+    "/home/ronny-chiclla/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/home/ronny-chiclla/Documents/Cibertec/Cycles/Fisth_Cycle/Module_1/DSW1/Project/Library/Back-end/DSW1_T2_ChicllaZamoraRonny/src/DSW1_T2_ChicllaZamoraRonny.Domain/DSW1_T2_ChicllaZamoraRonny.Domain.csproj",
+      "projectName": "DSW1_T2_ChicllaZamoraRonny.Domain",
+      "projectPath": "/home/ronny-chiclla/Documents/Cibertec/Cycles/Fisth_Cycle/Module_1/DSW1/Project/Library/Back-end/DSW1_T2_ChicllaZamoraRonny/src/DSW1_T2_ChicllaZamoraRonny.Domain/DSW1_T2_ChicllaZamoraRonny.Domain.csproj",
+      "packagesPath": "/home/ronny-chiclla/.nuget/packages/",
+      "outputPath": "/home/ronny-chiclla/Documents/Cibertec/Cycles/Fisth_Cycle/Module_1/DSW1/Project/Library/Back-end/DSW1_T2_ChicllaZamoraRonny/src/DSW1_T2_ChicllaZamoraRonny.Domain/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/home/ronny-chiclla/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.122/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
