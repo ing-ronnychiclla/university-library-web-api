@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "473FQKSk2NZVEU/6YJISE7WPwCvjM08eD4ZBncrBedrCHjWIXYAEOWaEIJ5eUBYnjvNucRXAPxX41T4Io9q58w==",
+  "dgSpecHash": "aZzb/kZh7o1vgJB/AeNPwI5VxlbBMJYhy8mN+nbjypvdvhAbJHgWsuhJeD8RsGVz5NhpUbBN5PfM+qdTkIJlLw==",
   "success": true,
   "projectFilePath": "/home/ronny-chiclla/Documents/Cibertec/Cycles/Fisth_Cycle/Module_1/DSW1/Project/Library/Back-end/DSW1_T2_ChicllaZamoraRonny/src/DSW1_T2_ChicllaZamoraRonny.Application/DSW1_T2_ChicllaZamoraRonny.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/ronny-chiclla/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
+    "/home/ronny-chiclla/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DSW1_T2_ChicllaZamoraRonny.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+964df3f5e227c181721b8d3b20afab56911ab1a8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5c420e552867c78308a4f46c5078d575cd98c259")]
 [assembly: System.Reflection.AssemblyProductAttribute("DSW1_T2_ChicllaZamoraRonny.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DSW1_T2_ChicllaZamoraRonny.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
